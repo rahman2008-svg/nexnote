@@ -1,0 +1,6 @@
+{
+  "name": "NexNote",
+  "description": "NexNote – Offline Smart Notebook with drawings, audio notes, rich-text styling, checkboxes, folders, PDF export, and private lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
